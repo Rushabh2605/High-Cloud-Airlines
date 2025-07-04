@@ -6,7 +6,7 @@ This project focuses on comprehensive analysis and visualization of airline oper
 
 Key Objectives:
 
-Date Dimension Enrichment
+1.Date Dimension Enrichment
 
 Created a complete Date field from separate Year, Month (#), and Day columns.
 
@@ -26,7 +26,7 @@ Weekday Number and Name
 
 Financial Month and Financial Quarter
 
-Load Factor Analysis
+2.Load Factor Analysis
 
 Calculated Load Factor (%) = Transported Passengers / Available Seats
 
@@ -42,7 +42,7 @@ By Carrier
 
 Weekdays vs Weekends
 
-Carrier and Route Insights
+3.Carrier and Route Insights
 
 Identified the Top 10 Carriers by passenger preference.
 
@@ -50,7 +50,7 @@ Ranked the most popular routes (From–To city pairs) by number of flights.
 
 Summarized number of flights by distance group to understand operational coverage.
 
-Interactive Dashboards
+4.Interactive Dashboards
 
 Developed an end-to-end interactive dashboard showcasing all KPIs.
 
